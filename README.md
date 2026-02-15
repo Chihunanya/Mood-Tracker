@@ -74,5 +74,5 @@ The application uses three main tables:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/campus-wellness-platform.git
+git clone https://github.com/chihunanya/campus-wellness-platform.git
 cd campus-wellness-platform
